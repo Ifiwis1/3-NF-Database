@@ -1,4 +1,3 @@
-Creation of Databases
 This repository contains two sql files and 1 execution report.
 Two databases were created to solve the challenges as stated below:
 1. Hope Hospital database
